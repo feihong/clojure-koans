@@ -3,6 +3,9 @@
 The Clojure Koans are a fun way to get started with Clojure - no experience
 assumed or required. Follow the instructions below to start making tests pass!
 
+## Clojure Koans Walkthrough
+
+http://www.clojurescreencasts.com/
 
 ## Getting Started
 
